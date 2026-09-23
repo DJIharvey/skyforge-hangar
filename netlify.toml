@@ -1,0 +1,10 @@
+[build]
+  publish = "."
+[[redirects]]
+  from = "/phone"
+  to = "/phone.html"
+  status = 200
+[[redirects]]
+  from = "/desktop"
+  to = "/desktop.html"
+  status = 200
