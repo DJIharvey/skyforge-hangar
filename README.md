@@ -1,3 +1,7 @@
 # Skyforge Hangar
 
-Signup no longer needs an email confirmation. Use a pilot name or email on the Account tab and you are signed in right away.
+RC plane dogfight hangar.
+
+Open phone.html or desktop.html. On tab 5 Account, type a plane secret code and tap Unlock plane.
+
+Master code: SKYFORGE
